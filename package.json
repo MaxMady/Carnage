@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/MaxMady/Carnage/issues"
   },
-  "homepage": "https://github.com/MaxMady/Carnage#readme"
+  "homepage": "https://github.com/MaxMady/Carnage#readme",
+  "dependencies": {
+    "better-sqlite3": "^8.5.0",
+    "discord-webhook-node": "^1.1.8",
+    "express": "^4.18.2",
+    "quick.db": "^9.1.7",
+    "sqlite3": "^5.1.6"
+  }
 }
